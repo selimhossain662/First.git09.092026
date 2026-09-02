@@ -1,5 +1,3 @@
-print("i am a student")
-
 a = 10
 print(a)
 
